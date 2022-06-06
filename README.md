@@ -24,7 +24,7 @@
 - 🔭 I’m currently working at Ceridian as a Software Developer Intern  
   
 
-- 🌱 I’m currently learning Machine Learning and core Cybersecurity concepts  
+- 🌱 I’m currently learning some core Cybersecurity concepts, mainly pwning 
   
 
 - ⚡ Fun fact: I am currently reading Lord of the rings: The fellowship of the ring  
