@@ -21,16 +21,16 @@
 ## Rapidfire  
 <table><tr><td valign="top" width="50%">
 
-- 🔭 I’m currently working at Ceridian as a Software Developer Intern  
+- 🔭 I’m currently a student at University of Toronto and also working as a Teaching Assistant  
   
 
 - 🌱 I’m currently learning some core Cybersecurity concepts, mainly pwning 
   
 
-- ⚡ Fun fact: I am currently reading Lord of the rings: The fellowship of the ring  
+- ⚡ Fun fact: I am currently reading It ends with us (Getting into a different genre) 
   
 
-- ❓ Feel free to reach out to me whether it is to discuss LOTR or Computer Science  
+- ❓ Feel free to reach out to me whether it is to discuss Computer Science or something else :)
 
 
 </td><td valign="top" width="50%">
